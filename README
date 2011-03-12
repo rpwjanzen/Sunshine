@@ -1,0 +1,18 @@
+-= Sunshine logging framework =-
+
+Sunshine is a client-side Silverlight logging framework.
+
+- Tools Used -
+Silverlight 4
+Visual Web Developer Express 2010.
+
+- Quick Start -
+Run the LoggingTest.Web project to see it in action.
+
+- Misc -
+After working over an evening and a morning, it was finished in about 10 hours.
+
+Copyright Ryan Janzen
+Please notify me if you are using it.
+
+
